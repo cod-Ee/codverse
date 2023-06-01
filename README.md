@@ -1,7 +1,7 @@
 # codverse
 Welcome to the Codverse repository, an exciting space dedicated to exploring the vast realm of coding and programming! This repository serves as a hub for all coding enthusiasts, developers, and learners alike, offering a plethora of valuable resources, projects, and tools to embark on a journey of software development. 
 
-Description:
+# Description
 
 Codverse is a comprehensive collection of code snippets, projects, and tutorials carefully curated and created to help individuals of all skill levels enhance their coding prowess. Whether you're a beginner taking your first steps in the coding world or an experienced programmer seeking to expand your knowledge, Codverse has something for everyone.
 
